@@ -1,6 +1,6 @@
 <?php
 
-echo "<b><a href=index.php><img src='" . ASSETS_PATH . "/CmA-Square.png' height=20>/</a></a></b>";
+echo "<b><a href=index.php>OTF/</a></a></b>";
 
 echo "<a href=index.php?action=list&file=>Docs</a>/<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a>/<b>$filenameX</b><br></h4>";
 
