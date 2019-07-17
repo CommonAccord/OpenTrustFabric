@@ -6,7 +6,7 @@ Ti=This is a home for materials relating to the "Open Trust Fabric."
 
 3.sec=This effort is made in connection with a contract from the EU Commission on "Modelling the EU Economy as an Ecosystem of Contracts." (We'll call this the EU Contract.")
 
-4.sec=We are inspired by work to give people control over their own data, and the theories of "<a href="http://http://socialphysics.media.mit.edu/">Social Physics</a>".
+4.sec=We are inspired by work to give people control over their own data, and the theories of "<a href="http://socialphysics.media.mit.edu/">Social Physics</a>".
 
 5.sec=Business contracting is a particularly fertile field for work as business contracts fall into clear patterns, are linked into transnational supply chains, and businesses have resources to apply to the effort.  The IACCM.com is a forum for business efforts and a supporter of the EU Contract.
 
