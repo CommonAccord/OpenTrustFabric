@@ -16,11 +16,11 @@ Ti=This is a home for materials relating to the "Open Trust Fabric."
 
 8.sec=Legal document standards may play a catalyzing role.  Legal documents are the hard-tissue of an ecosystem of contracts, and enormous improvements can be made quite directly, using methods already proven in law and software coding.
 
-9.sec=In other words, the OTF seeks to encourage cross-fertilization among actors working to improve transacting, governanace, security and autonomy. 
+9.sec=In other words, the OTF seeks to encourage cross-fertilization among actors working to improve transacting, governance, security and autonomy.
 
 10.sec=Contacts: luigi@trakti.com, commonaccord@gmail.com, shughes@iaccm.com
 
-00.sec=Join us, please. <a href="index.php?action=doc&file=OpenTrustFabric/LetterOfIntent/0.md">Open Trust Fabric - Introduction</a>.  You can also visit the "source" for this site at <a href="https://github.com/commonaccord/opentrustfabric">GitHub/commonaccord/OpenTrustFabric</a>.
+00.sec=Join us, please see the more complete introduction and sign up letter at <a href="index.php?action=doc&file=OpenTrustFabric/LetterOfIntent/0.md">Open Trust Fabric - Introduction</a>.<p>  Please also review our sketch of <a href="index.php?action=list&file=Who/Fiduciary/">the four kinds of "Fiduciaries"</a> of transacting.  <p>The "source" for this site at <a href="https://github.com/commonaccord/opentrustfabric">GitHub/commonaccord/OpenTrustFabric</a>.
 
 =[G/Z/ol/s10]
 
