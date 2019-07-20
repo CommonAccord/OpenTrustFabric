@@ -4,7 +4,7 @@ DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
 DEFINE('URLFORREPO', 'https://github.com/CommonAccord/OpenTrustFabric');	// The repo home
 
-DEFINE('LANDING_MD', 'OpenTrustFabric/Intro.md');	// The website home moved because some bot keeps overwriting Landing.md
+DEFINE('LANDING_MD', 'OpenTrustFabric/Intro.md');	// The landing page for the site
 
 DEFINE('SOURCE_TAB_MESSAGE', 'Source');	// Tab
 
