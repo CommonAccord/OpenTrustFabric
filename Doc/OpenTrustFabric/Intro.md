@@ -23,4 +23,3 @@ Ti=This is a home for materials relating to the "Open Trust Fabric."
 00.sec=Join us, please see the more complete introduction and sign up letter at <a href="index.php?action=doc&file=OpenTrustFabric/LetterOfIntent/0.md">Open Trust Fabric - Introduction</a>.<p>  Please also review our sketch of <a href="index.php?action=list&file=Who/Fiduciary/">the four kinds of "Fiduciaries"</a> of transacting.  <p>The "source" for this site at <a href="https://github.com/commonaccord/opentrustfabric">GitHub/commonaccord/OpenTrustFabric</a>.
 
 =[G/Z/ol/s10]
-
