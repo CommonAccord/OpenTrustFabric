@@ -18,8 +18,18 @@ Ti=This is a home for materials relating to the "Open Trust Fabric."
 
 9.sec=In other words, the OTF seeks to encourage cross-fertilization among actors working to improve transacting, governance, security and autonomy.
 
-10.sec=Contacts: luigi@trakti.com, commonaccord@gmail.com, shughes@iaccm.com
+Contact.0.sec=Join us:
 
-00.sec=Join us, please see the more complete introduction and sign up letter at <a href="index.php?action=doc&file=OpenTrustFabric/LetterOfIntent/0.md">Open Trust Fabric - Introduction</a>.<p>  Please also review our sketch of <a href="index.php?action=list&file=Who/Fiduciary/">the four kinds of "Fiduciaries"</a> of transacting.  <p>The "source" for this site at <a href="https://github.com/commonaccord/opentrustfabric">GitHub/commonaccord/OpenTrustFabric</a>.
+Contact.1.sec=Please see the more complete introduction and sign up letter at <a href="index.php?action=doc&file=OpenTrustFabric/LetterOfIntent/0.md">Open Trust Fabric - Introduction</a>.
 
-=[G/Z/ol/s10]
+Contact.2.sec=Please also review our sketch of <a href="index.php?action=list&file=Who/Fiduciary/">the four kinds of "Fiduciaries"</a> of transacting.
+
+Contact.3.sec=Contacts: luigi@trakti.com, commonaccord@gmail.com, shughes@iaccm.com
+
+Contact.4.sec=The "source" for this site at <a href="https://github.com/commonaccord/opentrustfabric">GitHub/commonaccord/OpenTrustFabric</a>.
+
+Contact.=[G/Z/paras/s4]
+
+00.sec={Contact.sec}
+
+=[G/Z/ol/s9]

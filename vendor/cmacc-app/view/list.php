@@ -19,7 +19,7 @@ if(! ($dir == './')) {
                $docpath = "";
        }
 
-        echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php><img src='" . ASSETS_PATH . "/CmA-Square.png' height=25></a>";
+        echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php>OTF</a> ";
         echo "<a href=index.php?action=list&file=>Docs</a>/";
         echo "<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $docpath."</a>/".$rootdir['filename']."</h3><br>";
 
