@@ -11,3 +11,5 @@ SPDX=[?https://spdx.org/ids] /// A general system of machine readable classifica
 XBRL.=[?https://www.xbrl.org/] /// Standards for XML expression of business rules.
 
 ContractManagement.=[?http://software.iaccm.com] /// an extensive classification of contract management software.
+
+LegalMatterTaxonomy=[?https://salilegal.org/sali3/welcome.php?st=98]
