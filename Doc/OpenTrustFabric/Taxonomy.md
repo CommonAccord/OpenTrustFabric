@@ -48,6 +48,9 @@ Assets:
 			Book
 		Patent
 
+Nature:
+	GA4GH Data Use Ontology (DUO)
+
 Forms:
 	Whole Documents:
 	      Contract Agreements

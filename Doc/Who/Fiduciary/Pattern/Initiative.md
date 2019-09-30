@@ -1,0 +1,1 @@
+=[?https://minefi.hosting.augure.com/Augure_Minefi/r/ContenuEnLigne/Download?id=3D328A71-A13D-4882-A72A-53B4F9A713E2&filename=1362%20-%20Appel%20%C3%A0%20projets%20IA.pdf] /// French government call regarding AI data management.
