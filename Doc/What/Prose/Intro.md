@@ -6,11 +6,15 @@ There are currently vast resources of document templates and clause libraries.  
 
 But there are also more systematic organizations, including formal clause libraries and document assembly sources.  NLP systems can now do a good job of converting unstructured precedents into structured forms and clause libraries.
 
-In an ecosystem of contracts, what is the future of these various systems of templates?  This piece expresses a vision of convergence.
+At the most abstract level, there are taxonomies that purport to be complete, such as ISO-LEI and ACTUS.
+
+In an ecosystem of contracts, these standards are obviously helpful - they reflect both serious work and the existence of a community of interest.  What is the future of these various taxonomies and systems of templates?  For interoperability, they must  convergence.
 
 (NOTE: merely bullet points now.)
 
-Form Templates will be madee of subcomponents:
+This provides a list.
+
+Form Templates will be made of subcomponents:
 
 Differences will be expressed as overrides:
 
